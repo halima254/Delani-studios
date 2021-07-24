@@ -33,7 +33,7 @@
     text-align: center;
 }
 .images{
-    margin-left: 150px;
+    margin-left: 75px;
     display: flex;
     flex-direction: row;
 }
@@ -47,4 +47,33 @@
 #img3{
     margin-left: 300px;
     margin-right: 50px;
+}
+.portfolio-icons{
+    margin-left: 100px;
+}
+.portfolio-icons h3{
+    text-align: center;
+    margin-top: 70px;
+    margin-left: -75px;
+}
+.part2{
+    margin-top: 30px;
+}
+#porfolio2{
+    margin-left: 10px;
+}
+#porfolio3{
+    margin-left: 10px;
+}
+#porfolio4{
+    margin-left: 10px;
+}
+#porfolio6{
+    margin-left: 10px;
+}
+#porfolio7{
+    margin-left: 10px;
+}
+#porfolio8{
+    margin-left: 10px;
 }
