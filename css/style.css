@@ -84,8 +84,11 @@
     height: 350px;
 }
 .container-feedback h3{
-   margin-top: 50px;
    text-align: center;
+   margin-top: 50px;
+}
+#contact{
+    margin-top: 50px;
 }
 .name-email-inputs{
     display: flex;
@@ -110,4 +113,31 @@
 .media-sites{
     margin-top: 30px;
     margin-left: 350px;
+}
+#dribble{
+    margin-left: 10px;
+}
+#facebook{
+    margin-left: 10px;
+}
+#gplus{
+    margin-left: 10px; 
+}
+#dribble{
+    margin-left: 10px;
+}
+#skype{
+    margin-left: 10px;
+}
+#png{
+    margin-left: 10px;
+}
+#behance{
+    margin-left: 10px;
+}
+#pinterest{
+    margin-left: 10px;
+}
+#flickr{
+    margin-left: 10px;
 }
