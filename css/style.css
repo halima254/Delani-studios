@@ -79,14 +79,13 @@
 #porfolio8{
     margin-left: 15px;
 }
-
-.container-feedback h3{
-  margin-top: 50px;
-   text-align: center;
-}
-.name-email{
+.container-feedback{
     background: url(/assets/backgrounds/delani\ background2.jpg);
     height: 350px;
+}
+.container-feedback h3{
+   margin-top: 50px;
+   text-align: center;
 }
 .name-email-inputs{
     display: flex;
@@ -95,11 +94,11 @@
     margin-left: 200px;
 }
 .name-email #name{
-    margin-top: 100px;
+    margin-top: 60px;
 
 }
 .name-email #email{
-    margin-top: 100px;
+    margin-top: 60px;
     margin-left: 20px;
 }
 .mb-3 #text-area{
@@ -107,4 +106,8 @@
     height: 150px;
     width: 800px;
     align-items: center;
+}
+.media-sites{
+    margin-top: 30px;
+    margin-left: 350px;
 }
