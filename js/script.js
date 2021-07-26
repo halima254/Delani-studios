@@ -68,3 +68,9 @@ $(document).ready(function(){
         $(".port8").toggle();
     })
 })
+function response(){
+    var name = document.getElementById("name").value;
+    if(name){
+        alert(name + "" + " we have received your message. Thank you for taking your time to fill the form" )
+    }
+}
