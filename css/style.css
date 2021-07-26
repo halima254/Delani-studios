@@ -56,7 +56,7 @@
     margin-top: 70px;
     margin-left: -75px;
 }
-.part2{
+/* .part2{
     margin-top: 30px;
 }
 #porfolio2{
@@ -76,6 +76,24 @@
 }
 #porfolio8{
     margin-left: 15px;
+} */
+.card{
+    display: flex;
+    width: 250px;
+
+}
+.port1,.port2,.port3,.port4, .port5, .port6, .port7, .port8{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+    height: 150px;
+    padding-top: 50px;
+    border: 2px solid white;
+    display: none;
 }
 .container-feedback{
     background: url(/assets/backgrounds/delani\ background2.jpg);
