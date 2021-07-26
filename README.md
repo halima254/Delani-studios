@@ -5,7 +5,7 @@ Delani Studio is a project that is being recreated by the students based on the 
 of this project is to test whether the student understood the concepts and is able to apply it to the project or not.
 ## Author's information
 This project was developed by Halima Yahya, 
-a web developer from Moring school.
+a web developer from Moringa school.
 ## Set up Instructions
 The project requires some knowledge on Javascript and jQuery
 ## Technologies used
