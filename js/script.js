@@ -28,3 +28,43 @@ $(document).ready(function(){
         $("#image3").show();
     })
 });
+$(document).ready(function(){
+    $("#porfolio1").hover(function(){
+        $(".port1").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio2").hover(function(){
+        $(".port2").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio3").hover(function(){
+        $(".port3").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio4").hover(function(){
+        $(".port4").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio5").hover(function(){
+        $(".port5").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio6").hover(function(){
+        $(".port6").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio7").hover(function(){
+        $(".port7").toggle();
+    })
+})
+$(document).ready(function(){
+    $("#porfolio8").hover(function(){
+        $(".port8").toggle();
+    })
+})
