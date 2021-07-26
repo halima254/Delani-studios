@@ -5,6 +5,12 @@
     text-align: center;
     color: #ffffff;
 }
+/* #welcome{
+    margin-top: 150px;
+} */
+#mouse{
+    margin-bottom: 50px;
+}
 .container-intro h1{
     margin-top: 90px;
 }
