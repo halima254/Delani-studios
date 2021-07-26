@@ -77,10 +77,12 @@
 }
 .container-feedback{
     background: url(/assets/backgrounds/delani\ background2.jpg);
-    height: 350px;
+    height: 450px;
+    margin-top: 30px;
 }
 .container-feedback h3{
    text-align: center;
+   color:#ffff;
    margin-top: 50px;
 }
 #contact{
@@ -93,12 +95,12 @@
     margin-left: 200px;
 }
 .name-email #name{
-    margin-top: 60px;
+    margin-top: 20px;
     background: rgba(0, 0, 0, 0.1);
 
 }
-.name-email #email{
-    margin-top: 60px;
+#mce-EMAIL{
+    margin-top: 20px;
     margin-left: 20px;
     color: #ffffff;
     background: rgba(0, 0, 0, 0.1);
@@ -113,35 +115,17 @@
 ::placeholder{
     color: #ffffff;
 }
+button{
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 10px;
+  
+}
 .media-sites{
     margin-top: 30px;
     margin-left: 350px;
 }
-#dribble{
-    margin-left: 10px;
-}
-#facebook{
-    margin-left: 10px;
-}
-#gplus{
-    margin-left: 10px; 
-}
-#dribble{
-    margin-left: 10px;
-}
-#skype{
-    margin-left: 10px;
-}
-#png{
-    margin-left: 10px;
-}
-#behance{
-    margin-left: 10px;
-}
-#pinterest{
-    margin-left: 10px;
-}
-#flickr{
+#dribble,#facebook,#gplus,#dribble,#skype,#png,#behance,#pinterest,#flickr{
     margin-left: 10px;
 }
 .footer{
